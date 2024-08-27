@@ -1,4 +1,4 @@
-👋 Prazer! Eu sou o Lucas, estudante em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e pela linguagem Java e pelo framework Spring, assim como pelo React. Meu foco é entender profundamente o funcionamento tanto do backend quanto do frontend. Tenho duas certificações Java (Spring Professional e Spring Expert) e participei do bootcamp na escola DevSuperior com o incrível Nelio Alves. Atualmente, estou participando do bootcamp de React. 🚀
+👋 Atualmente, estou estagiando como Desenvolvedor Java e cursando o 4º período em Análise e Desenvolvimento de Sistemas. Com uma paixão por tecnologia e especialização em Java e Spring, possuo certificações em Spring Professional e Spring Expert. Além disso, estou expandindo meus conhecimentos em frontend, explorando tecnologias como React, com o objetivo de me tornar um desenvolvedor full stack completo🚀
 
 ---
 
