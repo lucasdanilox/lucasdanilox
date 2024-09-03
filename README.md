@@ -1,4 +1,4 @@
-👋 Atualmente, estou estagiando como Desenvolvedor Java e cursando o 4º período em Análise e Desenvolvimento de Sistemas. Com uma paixão por tecnologia e especialização em Java e Spring, possuo certificações em Spring Professional e Spring Expert. Além disso, estou expandindo meus conhecimentos em frontend, explorando tecnologias como React, com o objetivo de me tornar um desenvolvedor full stack completo🚀
+👋Desenvolvedor Java e cursando o 4º período em Análise e Desenvolvimento de Sistemas. Com uma paixão por tecnologia e especialização em Java e Spring, possuo certificações em Spring Professional e Spring Expert. Além disso, estou expandindo meus conhecimentos em frontend, explorando tecnologias como React, com o objetivo de me tornar um desenvolvedor full stack completo🚀
 
 ---
 
